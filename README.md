@@ -11,4 +11,4 @@ My name is Rostyslav. I'm a young and motivated programmer from Ukraine. I mostl
 
 ## Outside of coding I enjoy
 - Running and cycling. Find me in [Strava](https://www.strava.com/athletes/rbrahinets)
-- Workin' out my brain by [Leetcode](https://leetcode.com/rbrahinets/) and [HackerRank](https://www.hackerrank.com/rbrahinets/)
+- Workin' out my brain by [LeetCode](https://leetcode.com/rbrahinets/) and [HackerRank](https://www.hackerrank.com/rbrahinets/)
