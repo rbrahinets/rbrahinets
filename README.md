@@ -7,7 +7,7 @@ My name is Rostyslav. I'm a young and motivated programmer from Ukraine. I mostl
 - [My Instagram](https://www.instagram.com/rbrahinets/)
 - [My LinkedIn](https://www.linkedin.com/in/rbrahinets/)
 - My Email: [rostyslav.brahinets@gmail.com](mailto:rostyslav.brahinets@gmail.com)
-- [My Curriculum Vitae](https://drive.google.com/file/d/1l6H8NY7_pOxy_ds1Yesmw02etczLO_Gb/view?usp=share_link)
+- My Curriculum Vitaes: [Java Junior Developer](https://drive.google.com/file/d/1Jj9sSaY0DSZILR0B1tOT-cIUU6wH69sF/view), [Junior Full Stack Developer (Java+Angular)](https://drive.google.com/file/d/1oZQQuRd8DJcEET-miofx84i04-hxgTFw/view), [Junior Full Stack Developer (Java+React)](https://drive.google.com/file/d/1a_RBFZwHcJ4UNO9vqK8D69Aroa2fdaIt/view)
 
 ## Outside of coding I enjoy
 - Running, cycling and walking. Find me in [Strava](https://www.strava.com/athletes/rbrahinets)
