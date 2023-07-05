@@ -3,6 +3,7 @@ My name is Rostyslav. I'm a young and motivated programmer from Ukraine. I mostl
 
 ## About me
 - I'm student in [The Bohdan Khmelnytsky National University of Cherkasy](https://www.cdu.edu.ua/)
+- I have a [bachelor's degree](https://drive.google.com/drive/folders/1Gr7eDpFzELAArGMTPE4_S5BdwoyD2ZHc?usp=sharing). Professional qualification: Specialist in information technologies
 - Completed the [GeekHub](https://geekhub.ck.ua) Java for Web course. And received [a certificate](https://drive.google.com/file/d/1ovealLDjEkHu5Ncokv2JPUOjTNWfI1EW/view?usp=share_link)
 - [My Instagram](https://www.instagram.com/rbrahinets/)
 - [My LinkedIn](https://www.linkedin.com/in/rbrahinets/)
