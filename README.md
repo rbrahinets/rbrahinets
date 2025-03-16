@@ -12,4 +12,4 @@ My name is Rostyslav. I'm a young and motivated programmer from Ukraine. I work 
 ## Outside of coding, I enjoy
 - Running, cycling, and walking. Find me on [Strava](https://www.strava.com/athletes/rbrahinets/)
 - Learning English on [Duolingo](https://www.duolingo.com/profile/rbrahinets/)
-- Check my readings out on [Goodreads](http://goodreads.com/rbrahinets/)
+- Check my readings out on [Goodreads](https://www.goodreads.com/user/show/165052741-rostyslav-brahinets/)
