@@ -7,7 +7,7 @@ My name is Rostyslav. I'm a young and motivated programmer from Ukraine. I work 
 - Completed [the GeekHub](https://geekhub.ck.ua) Java for Web course. And received [a certificate](https://drive.google.com/file/d/1ovealLDjEkHu5Ncokv2JPUOjTNWfI1EW/view?usp=share_link)
 - [My Instagram](https://www.instagram.com/rbrahinets/)
 - [My LinkedIn](https://www.linkedin.com/in/rbrahinets/)
-- My Email: [rostyslav.brahinets@gmail.com](mailto:rostyslav.brahinets@gmail.com)
+- My Email: [rbrahinets2002@gmail.com](mailto:rbrahinets2002@gmail.com)
 
 ## Outside of coding, I enjoy
 - Running, cycling, and walking. Find me on [Strava](https://www.strava.com/athletes/rbrahinets/)
