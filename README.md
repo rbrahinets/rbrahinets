@@ -1,5 +1,12 @@
 ## Hello
-My name is Rostyslav. I'm a young and motivated programmer from Ukraine. I work as a software engineer at [BibleGym](https://www.linkedin.com/company/biblegym/) using Node .js, React and React Native. I love Java. I also enjoy listening to music, reading books, running and cycling.
+
+Software Engineer at product startup [BibleGym](https://www.linkedin.com/company/biblegym/). I develop web and mobile applications for Bible study (10,000+ users): backend with Node.js, mobile client with React Native, admin panel and landing page with React. I work with MongoDB, support DevOps processes (Docker, CI/CD), and release apps to App Store and Google Play.
+
+I can work independently and take tasks from idea to release. I learn quickly, take responsibility for code and deadlines. I leverage modern AI tools for effective software development. Background in Software Engineering.
+
+Interested in products with real impact on people. Open to networking and interesting opportunities in web and mobile development.
+
+I love Java. I also enjoy listening to music, reading books, running and cycling.
 
 ## About me
 - I graduated from [Bohdan Khmelnytskyi National University of Cherkasy](https://www.cdu.edu.ua/)
